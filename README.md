@@ -1,4 +1,4 @@
-﻿# TappAV Clone (React + Tailwind)
+﻿# TappAV (React + Tailwind)
 
 ## Run
 
@@ -6,3 +6,4 @@
 npm install
 npm run dev
 ```
+
